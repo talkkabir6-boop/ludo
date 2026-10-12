@@ -1,2 +1,1 @@
-# ludo
-mun gina ta ba dan ayi chacha ba sai dan wasa
+ "Ludo Hausa - Version 1.0").
